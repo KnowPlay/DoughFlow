@@ -1,9 +1,9 @@
 <!-- PROJECT SUMMARY -->
 <div align="center">
-  <h1 align="center">Project Title</h1>
+  <h1 align="center">Dough Flow</h1>
 
   <p align="center">
-    {}
+    { a Dashboard App}
     <br>
     <a href="https://github.com/github_username/repo_name/issues">» submit a suggestion </a>
     ·
@@ -50,15 +50,30 @@
 
 ### :wrench: Tech Stack
 
-- [ ] 
-- [ ] 
+#### :chart_with_upwards_trend: Modeling
+- [ ] **[Regression-js](https://github.com)**: Performs regression analysis for predictive modeling.
+
+#### :gear: Back End
+- [ ] **[Node.js](https://nodejs.org/)**: Server-side JavaScript runtime.
+- [ ] **[Express.js](https://expressjs.com/)**: Framework for building APIs and web apps.
+- [ ] **[Mongoose](https://mongoosejs.com/)**: ODM for MongoDB and Node.js.
+
+#### :desktop_computer: Front End
+- [ ] **[Material-UI](https://material-ui.com/)**: Component library for Material Design.
+- [ ] **[Material-UI Data Grid](https://material-ui.com/components/data-grid/)**: Features sorting, filtering, and pagination.
+- [ ] **[TypeScript](https://www.typescriptlang.org/)**: Adds static type checking for better maintainability.
+- [ ] **[Vite](https://vitejs.dev/)**: Fast and efficient modern build tool.
+- [ ] **[Recharts](https://recharts.org/)**: Composable charting library based on React.
+- [ ] **[Redux Toolkit](https://redux-toolkit.js.org/)**: Streamlines Redux development and state management.
+- [ ] **[Redux Toolkit Query](https://redux-toolkit.js.org/rtk-query/overview)**: Efficient data fetching and caching.
+- [ ] **[Heroicons](https://heroicons.com/)**: High-quality SVG icons for UI enhancement.
+- [ ] **[React Router](https://reactrouter.com/)**: Synchronizes UI and URL navigation.
+
+#### :rocket: Deployment
+- [ ] **[Fly.io](https://fly.io/)**: Global backend deployment to minimize latency.
+- [ ] **[Vercel](https://vercel.com/)**: Front end deployment optimized for performance.
 
 ### :mushroom: Features
-
-#### :heavy_plus_sign: 
-
-- [ ] 
-- [ ]
 
 #### :heavy_plus_sign: 
 
@@ -70,6 +85,7 @@
 
 ### :honey_pot: Setup
 <!-- Add setup instructions here -->
+
 
 ### :apple: Development
 <!-- Add development details here -->
